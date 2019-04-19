@@ -2,9 +2,11 @@
 
 ## Motivation 
 
-Being a Gamer I've experienced the same issue over the past 40 years. Insufficient controller support. Racing games that don't allow wheels for steering, flight sims that don't support throttle and pedals etc. And I've seen hundreds of workarounds for these problems and many programs doing a great job on parts of what I aim to do. Some of the best of these programs imho are FreePIE with it'S flexible input output concept and VoiceAttacks with the integration of voice recognition with keyboard, mouse and joystick remapping. If you happen to use windows take a look at those tools.
-Since I migrated to Linux a few weeks ago I cannot use them anymore.
-Being a programmer I decided to do something for the community in return for all the great programs they provided for free.
+Being a Gamer I've experienced the same issue over the past 40 years. Insufficient controller support. Racing games that don't allow wheels for steering, flight sims that don't support throttle and pedals etc.
+
+And I've seen hundreds of workarounds for these problems and many programs doing a great job getting around this limitations. Some of the best of these programs imho are FreePIE with it's flexible input output concept and VoiceAttacks with the integration of voice recognition with keyboard, mouse and joystick remapping. If you happen to use Windows take a look at those great tools. But non of it did all of what I expected it to do or did it in a vway I expected it to do and since I migrated to GNU Linux a few weeks ago I cannot use them anymore. 
+
+Being a programmer I decided to change the situation and at the same time give something back to the GNU Linux community in return for all the great programs they provided for free.
 
 ## Goals
 
