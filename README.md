@@ -1,20 +1,20 @@
-# IODA (Input Output Device Assignment)
+# FI/OR (Flexible Input/Output Router)
 
 ## Motivation 
 
 Being a Gamer I've experienced the same issue over the past 40 years. Insufficient controller support. Racing games that don't allow wheels for steering, flight sims that don't support throttle and pedals etc.
 
-And I've seen hundreds of workarounds for these problems and many programs doing a great job getting around this limitations. Some of the best of these programs imho are FreePIE with it's flexible input output concept and VoiceAttacks with the integration of voice recognition with keyboard, mouse and joystick remapping. If you happen to use Windows take a look at those great tools. But non of them did all of what I expected them to do or did it in a way I expected them to do it and, since I migrated to GNU Linux a few weeks ago, I cannot use them anymore. 
+And I've seen hundreds of workarounds for these problems and many programs doing a great job getting around this limitations. Some of the best of these programs imho are FreePIE with it's flexible input output concept and VoiceAttack with the integration of voice recognition with keyboard, mouse and joystick remapping. If you happen to use Windows take a look at those great tools. But non of them did all of what I expected them to do or did it in a way I expected them to do it and, since I migrated to GNU-Linux a few weeks ago, I cannot use them anymore. 
 
-Being a programmer I decided to change the situation and at the same time give something back to the GNU Linux community in return for all the great programs they provided for free.
+Being a programmer I decided to change the situation and at the same time give something back to the GNU-Linux community in return for all the great programs they provided for free.
 
 ## Goals
 
-IODA aims to be an universal input to output event mapper. By intercepting any user input from any device and translating and remapping it to any available output device(s) it can serve many purposes
+FI/OR aims to be an flexible input to output event mapper. By intercepting any user input from any device and translating and remapping it to any available output device(s) it can serve many purposes
 even beyond game controlling. 
 
 ## What it can't do
-IODA will not add functionality to programs, so you won't be able to add for example head tracking to a game that does not support control of your view independant of your moving direction.
+FI/OR will not add functionality to programs, so you won't be able to add for example head tracking to a game that does not support control of your view independant of your moving direction.
 
 ## A few use cases
 
@@ -24,6 +24,10 @@ IODA will not add functionality to programs, so you won't be able to add for exa
     4. by remapping input from a voice recognition input plugin, to keyboard, mouse and joystick it offers voice control for games and programs and even robots or help in house automation. (Sounds a bit like Alexa? It is in a way! But it would possibly react to a much smaller set of preset voice commands.)
 
 And there are practically millions of other use cases.
+
+## FI/OR concept in a mindmap
+
+![Mhe MindMap](FIORMindMap.png)
 
 ## Technical highlights
 
@@ -36,3 +40,4 @@ Free for all under the (yet to be determined) licence.
 
 ## Open source
 Source code will be available via github.
+
