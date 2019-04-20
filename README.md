@@ -18,12 +18,14 @@ FI/OR will not add functionality to programs, so you won't be able to add for ex
 
 ## A few use cases
 
-    1. by remapping and translating keyboard input to keyboard output, it can provide shortcuts for text or keyboard macros.
-    2. by remapping joystick input to XInput it can make any Joystick XBox-Controller compatible in any game.
-    3. by remapping stick, throttle and pedals to a single virtual joystick, it allows to use all of them in games suppporting only one joystick.
-    4. by remapping input from a voice recognition input plugin, to keyboard, mouse and joystick it offers voice control for games and programs and even robots or help in house automation. (Sounds a bit like Alexa? It is in a way! But it would possibly react to a much smaller set of preset voice commands.)
+    1. by translating keyboard input to output, it provides shortcuts for text or keyboard macros.
+    2. by remapping joystick input to XInput it can make any Joystick compatible to XBox-controller in any game.
+    3. by remapping stick, throttle and pedals to0 a single virtual joystick, you can use all of them even in games suppporting only one joystick.
+    4. by remapping input from a voice recognition plugin, to keyboard, mouse and joystick it offers voice control for games and programs.
+    5. you can control robots with a joystick.
+    6. use your voice to control house automation devices. (Sounds a bit like Alexa? It is in a way! But it would possibly react to a much smaller set of preset voice commands.)
 
-And there are practically millions of other use cases.
+And there are practically millions of other use cases, provided there are input and output plugins for it. 
 
 ## FI/OR concept in a mindmap
 
@@ -32,6 +34,7 @@ And there are practically millions of other use cases.
 ## Technical highlights
 
     * extensible via input output plugins (and maybe a script language plugin to make it user selectable)
+    * open api to write your own input and output plugins.
     * flexible by script or GUI driven remapping and translation. 
     * using Rust programmming language. (If I get the hang of it.)
 
